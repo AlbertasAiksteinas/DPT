@@ -1,0 +1,6 @@
+{
+    "remote.WSL.fileWatcher.polling": true,
+    "remote.WSL.debug": true,
+    "typescript.workspaceSymbols.scope": "currentProject",
+    "typescript.workspaceSymbols.excludeLibrarySymbols": false
+}
